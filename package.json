@@ -1,0 +1,19 @@
+{
+  "name": "waka-stats",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate": "bun run index.ts",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "wakatime-client": "^2.7.0"
+  }
+}
