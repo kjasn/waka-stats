@@ -14,35 +14,35 @@
   <text x="24" y="53" class="subtitle">WakaTime · last 7 days</text>
     <text x="24" y="92" class="language">Rust</text>
     <rect x="190" y="81" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="81" width="59.7" height="8" rx="4" class="bar" />
-    <text x="536" y="92" text-anchor="end" class="stats">7 hrs 5 mins · 22.9%</text>
+    <rect x="190" y="81" width="90.2" height="8" rx="4" class="bar" />
+    <text x="536" y="92" text-anchor="end" class="stats">9 hrs 56 mins · 34.7%</text>
     <text x="24" y="124" class="language">TypeScript</text>
     <rect x="190" y="113" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="113" width="51.2" height="8" rx="4" class="bar" />
-    <text x="536" y="124" text-anchor="end" class="stats">6 hrs 5 mins · 19.7%</text>
-    <text x="24" y="156" class="language">Other</text>
+    <rect x="190" y="113" width="56.1" height="8" rx="4" class="bar" />
+    <text x="536" y="124" text-anchor="end" class="stats">6 hrs 11 mins · 21.6%</text>
+    <text x="24" y="156" class="language">Markdown</text>
     <rect x="190" y="145" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="145" width="42.0" height="8" rx="4" class="bar" />
-    <text x="536" y="156" text-anchor="end" class="stats">4 hrs 59 mins · 16.1%</text>
-    <text x="24" y="188" class="language">Go</text>
+    <rect x="190" y="145" width="30.9" height="8" rx="4" class="bar" />
+    <text x="536" y="156" text-anchor="end" class="stats">3 hrs 24 mins · 11.9%</text>
+    <text x="24" y="188" class="language">YAML</text>
     <rect x="190" y="177" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="177" width="37.9" height="8" rx="4" class="bar" />
-    <text x="536" y="188" text-anchor="end" class="stats">4 hrs 30 mins · 14.6%</text>
-    <text x="24" y="220" class="language">Markdown</text>
+    <rect x="190" y="177" width="20.5" height="8" rx="4" class="bar" />
+    <text x="536" y="188" text-anchor="end" class="stats">2 hrs 15 mins · 7.9%</text>
+    <text x="24" y="220" class="language">Go</text>
     <rect x="190" y="209" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="209" width="22.9" height="8" rx="4" class="bar" />
-    <text x="536" y="220" text-anchor="end" class="stats">2 hrs 43 mins · 8.8%</text>
-    <text x="24" y="252" class="language">YAML</text>
+    <rect x="190" y="209" width="17.9" height="8" rx="4" class="bar" />
+    <text x="536" y="220" text-anchor="end" class="stats">1 hr 58 mins · 6.9%</text>
+    <text x="24" y="252" class="language">INI</text>
     <rect x="190" y="241" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="241" width="16.4" height="8" rx="4" class="bar" />
-    <text x="536" y="252" text-anchor="end" class="stats">1 hr 56 mins · 6.3%</text>
+    <rect x="190" y="241" width="8.6" height="8" rx="4" class="bar" />
+    <text x="536" y="252" text-anchor="end" class="stats">57 mins · 3.3%</text>
     <text x="24" y="284" class="language">Python</text>
     <rect x="190" y="273" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="273" width="5.6" height="8" rx="4" class="bar" />
-    <text x="536" y="284" text-anchor="end" class="stats">40 mins · 2.2%</text>
-    <text x="24" y="316" class="language">INI</text>
+    <rect x="190" y="273" width="6.1" height="8" rx="4" class="bar" />
+    <text x="536" y="284" text-anchor="end" class="stats">40 mins · 2.3%</text>
+    <text x="24" y="316" class="language">SQL</text>
     <rect x="190" y="305" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="305" width="4.8" height="8" rx="4" class="bar" />
-    <text x="536" y="316" text-anchor="end" class="stats">34 mins · 1.8%</text>
+    <rect x="190" y="305" width="5.4" height="8" rx="4" class="bar" />
+    <text x="536" y="316" text-anchor="end" class="stats">35 mins · 2.1%</text>
   <text x="24" y="348" class="subtitle">Generated from WakaTime</text>
 </svg>
