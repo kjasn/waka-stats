@@ -14,35 +14,35 @@
   <text x="24" y="53" class="subtitle">WakaTime · last 7 days</text>
     <text x="24" y="92" class="language">Go</text>
     <rect x="190" y="81" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="81" width="108.2" height="8" rx="4" class="bar" />
-    <text x="536" y="92" text-anchor="end" class="stats">5 hrs 1 min · 41.6%</text>
-    <text x="24" y="124" class="language">TypeScript</text>
+    <rect x="190" y="81" width="144.7" height="8" rx="4" class="bar" />
+    <text x="536" y="92" text-anchor="end" class="stats">6 hrs 32 mins · 55.7%</text>
+    <text x="24" y="124" class="language">Markdown</text>
     <rect x="190" y="113" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="113" width="38.9" height="8" rx="4" class="bar" />
-    <text x="536" y="124" text-anchor="end" class="stats">1 hr 48 mins · 15.0%</text>
-    <text x="24" y="156" class="language">Markdown</text>
+    <rect x="190" y="113" width="36.8" height="8" rx="4" class="bar" />
+    <text x="536" y="124" text-anchor="end" class="stats">1 hr 39 mins · 14.2%</text>
+    <text x="24" y="156" class="language">TypeScript</text>
     <rect x="190" y="145" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="145" width="37.0" height="8" rx="4" class="bar" />
-    <text x="536" y="156" text-anchor="end" class="stats">1 hr 43 mins · 14.2%</text>
+    <rect x="190" y="145" width="29.1" height="8" rx="4" class="bar" />
+    <text x="536" y="156" text-anchor="end" class="stats">1 hr 19 mins · 11.2%</text>
     <text x="24" y="188" class="language">YAML</text>
     <rect x="190" y="177" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="177" width="25.9" height="8" rx="4" class="bar" />
-    <text x="536" y="188" text-anchor="end" class="stats">1 hr 12 mins · 10.0%</text>
+    <rect x="190" y="177" width="11.4" height="8" rx="4" class="bar" />
+    <text x="536" y="188" text-anchor="end" class="stats">30 mins · 4.4%</text>
     <text x="24" y="220" class="language">jsonc</text>
     <rect x="190" y="209" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="209" width="8.3" height="8" rx="4" class="bar" />
-    <text x="536" y="220" text-anchor="end" class="stats">23 mins · 3.2%</text>
-    <text x="24" y="252" class="language">Other</text>
+    <rect x="190" y="209" width="8.5" height="8" rx="4" class="bar" />
+    <text x="536" y="220" text-anchor="end" class="stats">23 mins · 3.3%</text>
+    <text x="24" y="252" class="language">Git Config</text>
     <rect x="190" y="241" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="241" width="7.7" height="8" rx="4" class="bar" />
-    <text x="536" y="252" text-anchor="end" class="stats">21 mins · 3.0%</text>
-    <text x="24" y="284" class="language">JavaScript</text>
+    <rect x="190" y="241" width="7.3" height="8" rx="4" class="bar" />
+    <text x="536" y="252" text-anchor="end" class="stats">19 mins · 2.8%</text>
+    <text x="24" y="284" class="language">gitignore</text>
     <rect x="190" y="273" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="273" width="7.4" height="8" rx="4" class="bar" />
-    <text x="536" y="284" text-anchor="end" class="stats">20 mins · 2.9%</text>
-    <text x="24" y="316" class="language">Git Config</text>
+    <rect x="190" y="273" width="5.6" height="8" rx="4" class="bar" />
+    <text x="536" y="284" text-anchor="end" class="stats">15 mins · 2.2%</text>
+    <text x="24" y="316" class="language">Other</text>
     <rect x="190" y="305" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="305" width="7.2" height="8" rx="4" class="bar" />
-    <text x="536" y="316" text-anchor="end" class="stats">19 mins · 2.8%</text>
+    <rect x="190" y="305" width="4.6" height="8" rx="4" class="bar" />
+    <text x="536" y="316" text-anchor="end" class="stats">12 mins · 1.8%</text>
   <text x="24" y="348" class="subtitle">Generated from WakaTime</text>
 </svg>
