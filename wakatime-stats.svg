@@ -43,6 +43,6 @@
     <text x="24" y="316" class="language">JSON</text>
     <rect x="190" y="305" width="260" height="8" rx="4" class="track" />
     <rect x="190" y="305" width="2.0" height="8" rx="4" class="bar" />
-    <text x="536" y="316" text-anchor="end" class="stats">8 mins · 0.3%</text>
+    <text x="536" y="316" text-anchor="end" class="stats">7 mins · 0.3%</text>
   <text x="24" y="348" class="subtitle">Generated from WakaTime</text>
 </svg>
