@@ -14,24 +14,24 @@
   <text x="24" y="53" class="subtitle">WakaTime · last 7 days</text>
     <text x="24" y="92" class="language">Go</text>
     <rect x="190" y="81" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="81" width="232.2" height="8" rx="4" class="bar" />
-    <text x="536" y="92" text-anchor="end" class="stats">21 hrs 6 mins · 89.3%</text>
+    <rect x="190" y="81" width="233.9" height="8" rx="4" class="bar" />
+    <text x="536" y="92" text-anchor="end" class="stats">21 hrs 29 mins · 90.0%</text>
     <text x="24" y="124" class="language">Markdown</text>
     <rect x="190" y="113" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="113" width="24.1" height="8" rx="4" class="bar" />
-    <text x="536" y="124" text-anchor="end" class="stats">2 hrs 11 mins · 9.3%</text>
-    <text x="24" y="156" class="language">Other</text>
+    <rect x="190" y="113" width="20.3" height="8" rx="4" class="bar" />
+    <text x="536" y="124" text-anchor="end" class="stats">1 hr 51 mins · 7.8%</text>
+    <text x="24" y="156" class="language">Protocol Buffer</text>
     <rect x="190" y="145" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="145" width="2.4" height="8" rx="4" class="bar" />
-    <text x="536" y="156" text-anchor="end" class="stats">13 mins · 0.9%</text>
-    <text x="24" y="188" class="language">Protocol Buffer</text>
+    <rect x="190" y="145" width="2.7" height="8" rx="4" class="bar" />
+    <text x="536" y="156" text-anchor="end" class="stats">14 mins · 1.0%</text>
+    <text x="24" y="188" class="language">Other</text>
     <rect x="190" y="177" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="177" width="2.0" height="8" rx="4" class="bar" />
-    <text x="536" y="188" text-anchor="end" class="stats">6 mins · 0.5%</text>
+    <rect x="190" y="177" width="2.4" height="8" rx="4" class="bar" />
+    <text x="536" y="188" text-anchor="end" class="stats">13 mins · 0.9%</text>
     <text x="24" y="220" class="language">sh</text>
     <rect x="190" y="209" width="260" height="8" rx="4" class="track" />
     <rect x="190" y="209" width="2.0" height="8" rx="4" class="bar" />
-    <text x="536" y="220" text-anchor="end" class="stats">0 secs · 0.0%</text>
+    <text x="536" y="220" text-anchor="end" class="stats">3 mins · 0.3%</text>
     <text x="24" y="252" class="language">JSON</text>
     <rect x="190" y="241" width="260" height="8" rx="4" class="track" />
     <rect x="190" y="241" width="2.0" height="8" rx="4" class="bar" />
