@@ -14,32 +14,32 @@
   <text x="24" y="53" class="subtitle">WakaTime · last 7 days</text>
     <text x="24" y="92" class="language">Go</text>
     <rect x="190" y="81" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="81" width="229.6" height="8" rx="4" class="bar" />
-    <text x="536" y="92" text-anchor="end" class="stats">26 hrs 28 mins · 88.3%</text>
+    <rect x="190" y="81" width="223.1" height="8" rx="4" class="bar" />
+    <text x="536" y="92" text-anchor="end" class="stats">27 hrs 56 mins · 85.8%</text>
     <text x="24" y="124" class="language">Other</text>
     <rect x="190" y="113" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="113" width="15.1" height="8" rx="4" class="bar" />
-    <text x="536" y="124" text-anchor="end" class="stats">1 hr 44 mins · 5.8%</text>
+    <rect x="190" y="113" width="21.1" height="8" rx="4" class="bar" />
+    <text x="536" y="124" text-anchor="end" class="stats">2 hrs 38 mins · 8.1%</text>
     <text x="24" y="156" class="language">Markdown</text>
     <rect x="190" y="145" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="145" width="7.9" height="8" rx="4" class="bar" />
-    <text x="536" y="156" text-anchor="end" class="stats">54 mins · 3.0%</text>
+    <rect x="190" y="145" width="9.0" height="8" rx="4" class="bar" />
+    <text x="536" y="156" text-anchor="end" class="stats">1 hr 7 mins · 3.5%</text>
     <text x="24" y="188" class="language">Protocol Buffer</text>
     <rect x="190" y="177" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="177" width="3.4" height="8" rx="4" class="bar" />
-    <text x="536" y="188" text-anchor="end" class="stats">23 mins · 1.3%</text>
+    <rect x="190" y="177" width="3.7" height="8" rx="4" class="bar" />
+    <text x="536" y="188" text-anchor="end" class="stats">27 mins · 1.4%</text>
     <text x="24" y="220" class="language">YAML</text>
     <rect x="190" y="209" width="260" height="8" rx="4" class="track" />
-    <rect x="190" y="209" width="2.1" height="8" rx="4" class="bar" />
+    <rect x="190" y="209" width="2.0" height="8" rx="4" class="bar" />
     <text x="536" y="220" text-anchor="end" class="stats">14 mins · 0.8%</text>
-    <text x="24" y="252" class="language">Python</text>
+    <text x="24" y="252" class="language">go mod</text>
     <rect x="190" y="241" width="260" height="8" rx="4" class="track" />
     <rect x="190" y="241" width="2.0" height="8" rx="4" class="bar" />
-    <text x="536" y="252" text-anchor="end" class="stats">4 mins · 0.2%</text>
-    <text x="24" y="284" class="language">go mod</text>
+    <text x="536" y="252" text-anchor="end" class="stats">2 mins · 0.1%</text>
+    <text x="24" y="284" class="language">Bash</text>
     <rect x="190" y="273" width="260" height="8" rx="4" class="track" />
     <rect x="190" y="273" width="2.0" height="8" rx="4" class="bar" />
-    <text x="536" y="284" text-anchor="end" class="stats">2 mins · 0.2%</text>
+    <text x="536" y="284" text-anchor="end" class="stats">2 mins · 0.1%</text>
     <text x="24" y="316" class="language">log</text>
     <rect x="190" y="305" width="260" height="8" rx="4" class="track" />
     <rect x="190" y="305" width="2.0" height="8" rx="4" class="bar" />
